@@ -1,199 +1,161 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B600A8&height=120&section=header&text=&fontSize=0" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=8B92B0&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%86%92+rudra+samadhiya+%C2%B7+iiit+bhopal+%C2%B7+software+dev;%24+focus+%E2%86%92+backend+systems+%C2%B7+java+%C2%B7+spring+boot;%24+status+%E2%86%92+shipping+prepsharp.in+%26+flowlink" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0C0C0C,50:B600A8,100:7621B0&height=220&section=header&text=Rudra%20Samadhiya&fontSize=65&fontColor=D7E2EA&fontAlignY=60&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20IIIT%20Bhopal&descAlignY=78&descSize=18&descColor=8B92B0" width="100%"/>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <a href="https://profile-steel-nine.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-B600A8?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/rudra-samadhiya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:Samadhiyarudra123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://prepsharp.in"><img src="https://img.shields.io/badge/-PrepSharp.in%20🟢-7621B0?style=for-the-badge&logoColor=white"/></a>
+</p>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║    Hi, i'm  R U D R A .                                  ║
-║    software developer · backend systems · problem solver ║
-║                                                          ║
-║    CSE @ IIIT Bhopal  ·  Building scalable backends      ║
-║    with Java, Spring Boot & Firestore.                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-  <a href="https://profile-steel-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/◆ portfolio-0C0C0C?style=for-the-badge&logoColor=white&labelColor=B600A8" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rudra-samadhiya">
-    <img src="https://img.shields.io/badge/◆ linkedin-0C0C0C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="mailto:Samadhiyarudra123@gmail.com">
-    <img src="https://img.shields.io/badge/◆ mail-0C0C0C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
-  &nbsp;
-  <a href="https://prepsharp.in">
-    <img src="https://img.shields.io/badge/◆ prepsharp.in-0C0C0C?style=for-the-badge&logoColor=white&labelColor=7621B0" />
-  </a>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=B600A8&center=true&vCenter=true&width=560&lines=whoami+%E2%86%92+rudra+samadhiya+%C2%B7+iiit+bhopal;building+PrepSharp.in+%26+FlowLink;backend+systems+%C2%B7+java+%C2%B7+spring+boot;%F0%9F%A5%88+2nd+Place+%C2%B7+RootRush+2026+CTF" />
+</p>
 
 ---
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp;About Me
 
 ```typescript
-// about
 const rudra = {
-  name     : "Rudra Samadhiya",
-  role     : "Software Developer · Backend Systems",
-  college  : "IIIT Bhopal — B.Tech CSE  [ 2025 → 2029 ]",
-  building : ["PrepSharp.in", "FlowLink"],
-  won      : "2nd Place · RootRush 2026 CTF  (Team: Ctrl Alt Defend)",
-  location : "Bhopal, India  🇮🇳",
-  open_to  : ["Backend Internships", "Collaborations"],
-} as const;
+  name      :  "Rudra Samadhiya",
+  role      :  "Software Developer  ·  Backend Systems",
+  education :  "B.Tech CSE  @  IIIT Bhopal  [ 2025 → 2029 ]",
+  currently :  ["Shipping PrepSharp.in", "Building FlowLink"],
+  highlight :  "🥈 2nd Place · RootRush 2026 CTF  (Team: Ctrl Alt Defend)",
+  location  :  "Bhopal, India 🇮🇳",
+  open_to   :  ["Backend Internships", "Open Source", "Collabs"],
+};
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,spring,firebase,mysql,react,git,github,linux,vscode,postman,figma,docker,aws&theme=dark&perline=8"/>
+</p>
+
+<details>
+<summary><b>📋 Full breakdown</b></summary>
 <br/>
 
----
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · C++ · JavaScript · TypeScript · HTML · CSS |
+| **Backend** | Spring Boot · REST APIs · MVC Architecture · Auth & Authorization |
+| **Databases** | Firestore (NoSQL) · MySQL · Firebase |
+| **Tools** | Git · GitHub · Postman · VS Code · Linux · Figma |
+| **Learning** | React · TypeScript · Docker · AWS |
 
-<br/>
+</details>
 
-### `// skills`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-**`01` &nbsp; Languages & CS Core**
-
-![Java](https://img.shields.io/badge/Java-0C0C0C?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0C0C0C?style=flat-square&logo=cplusplus&logoColor=00599C)
-![DSA](https://img.shields.io/badge/DSA-0C0C0C?style=flat-square&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-0C0C0C?style=flat-square&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-0C0C0C?style=flat-square&logo=linux&logoColor=FCC624)
-![DBMS](https://img.shields.io/badge/DBMS-0C0C0C?style=flat-square&logo=databricks&logoColor=FF3621)
-
-**`02` &nbsp; Backend & Data**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0C0C0C?style=flat-square&logo=spring&logoColor=6DB33F)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0C0C0C?style=flat-square&logo=fastapi&logoColor=009688)
-![MVC](https://img.shields.io/badge/MVC_Architecture-0C0C0C?style=flat-square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0C0C0C?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Firestore](https://img.shields.io/badge/Firestore-0C0C0C?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![MySQL](https://img.shields.io/badge/MySQL-0C0C0C?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**`03` &nbsp; Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0C0C0C?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0C0C0C?style=flat-square&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0C0C0C?style=flat-square&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-0C0C0C?style=flat-square&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-0C0C0C?style=flat-square&logo=visualstudiocode&logoColor=2F80ED)
-![Figma](https://img.shields.io/badge/Figma-0C0C0C?style=flat-square&logo=figma&logoColor=F24E1E)
-
-**`// learning`**
-
-![React](https://img.shields.io/badge/React-0C0C0C?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0C0C0C?style=flat-square&logo=typescript&logoColor=3178C6)
-![Docker](https://img.shields.io/badge/Docker-0C0C0C?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0C0C0C?style=flat-square&logo=amazonaws&logoColor=FF9900)
-
-<br/>
-
----
-
-<br/>
-
-### `// work`
-
-<br/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Projects
 
 <table>
-  <tr>
-    <td width="50px" align="center"><b>01</b></td>
-    <td width="120px"><b>FlowLink</b></td>
-    <td><code>Backend · Firestore · RBAC</code></td>
-    <td align="right"><a href="https://github.com/Rudrasamadhiya">Code ↗</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="3"><sub>Hierarchical knowledge & problem-solving platform. Modeled normalized NoSQL schema in Firestore with RBAC-based access, end-to-end moderation → approval → voting workflow, and optimized read/write paths.</sub></td>
-  </tr>
-  <tr><td colspan="4"><br/></td></tr>
-  <tr>
-    <td align="center"><b>02</b></td>
-    <td><b>PrepSharp.in</b></td>
-    <td><code>Live · Spring Boot · REST</code></td>
-    <td align="right"><a href="https://prepsharp.in">Live ↗</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="3"><sub>Scalable CBT simulation platform for competitive exam prep. REST APIs for auth, exam state management & scoring engine. Automated PDF data-extraction pipeline with chapter, difficulty & answer-type tagging.</sub></td>
-  </tr>
-  <tr><td colspan="4"><br/></td></tr>
-  <tr>
-    <td align="center"><b>03</b></td>
-    <td><b>POS System</b></td>
-    <td><code>Java · OOP · Reliability</code></td>
-    <td align="right"><a href="https://github.com/Rudrasamadhiya">Code ↗</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="3"><sub>Inventory & transaction management for small retailers. Billing engine, automated stock sync, transactional consistency via OOP architecture, and operational sales reporting.</sub></td>
-  </tr>
+<tr>
+<td width="50%">
+
+### `01` · FlowLink
+![](https://img.shields.io/badge/Backend-B600A8?style=flat-square) ![](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=googlecloud&logoColor=white) ![](https://img.shields.io/badge/RBAC-7621B0?style=flat-square)
+
+Hierarchical knowledge & problem-solving platform. Normalized NoSQL schema · RBAC access control · end-to-end moderation → approval → voting workflow.
+
+**Stack:** Java · Firebase · Firestore · React
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudrasamadhiya)
+
+</td>
+<td width="50%">
+
+### `02` · PrepSharp.in &nbsp; ![](https://img.shields.io/badge/●%20LIVE-28c840?style=flat-square)
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square) ![](https://img.shields.io/badge/CBT%20Platform-7621B0?style=flat-square)
+
+Scalable CBT simulation platform for competitive exam prep. REST APIs · scoring engine · automated PDF data-extraction pipeline with chapter & difficulty tagging.
+
+**Stack:** Java · Spring Boot · REST APIs · Firestore
+
+[![Live](https://img.shields.io/badge/Live%20↗-B600A8?style=for-the-badge&logoColor=white)](https://prepsharp.in) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudrasamadhiya)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### `03` · POS System
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/OOP-444?style=flat-square) ![](https://img.shields.io/badge/Reliability-BE4C00?style=flat-square)
+
+Inventory & transaction management for small retailers — billing engine, automated stock sync, transactional consistency via OOP architecture, sales reporting.
+
+**Stack:** Java · OOP · File Handling
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudrasamadhiya)
+
+</td>
+<td width="50%">
+
+### `→` More coming soon...
+
+```
+// currently building:
+- FlowLink v2 with React frontend
+- Sharpening edges — Docker & AWS
+- Open to collabs on backend projects
+```
+
+[![Portfolio](https://img.shields.io/badge/See%20All%20Work-B600A8?style=for-the-badge)](https://profile-steel-nine.vercel.app/)
+
+</td>
+</tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 📊 &nbsp;GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B600A8&icon_color=7621B0&text_color=D7E2EA&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Rudrasamadhiya&hide_border=true&background=0D1117&ring=B600A8&fire=BE4C00&currStreakLabel=D7E2EA&sideLabels=8B92B0&dates=8B92B0&currStreakNum=D7E2EA&sideNums=BBCCD7" height="170"/>
+</p>
 
-### `// stats`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&hide_border=true&bg_color=0D1117&title_color=B600A8&text_color=D7E2EA&langs_count=8" height="150"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudrasamadhiya&bg_color=0D1117&color=B600A8&line=7621B0&point=BE4C00&area=true&hide_border=true" width="96%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&hide_border=true&bg_color=0C0C0C&title_color=B600A8&icon_color=7621B0&text_color=8b92b0&ring_color=B600A8" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrasamadhiya&hide_border=true&background=0C0C0C&ring=B600A8&fire=BE4C00&currStreakLabel=D7E2EA&sideLabels=8b92b0&dates=8b92b0&currStreakNum=D7E2EA&sideNums=bbccd7" width="49%" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&hide_border=true&bg_color=0C0C0C&title_color=B600A8&text_color=8b92b0" width="38%" />
-</div>
+## 🏆 &nbsp;Achievement
 
-<br/>
-
----
-
-<br/>
-
-### `// achievement · 2026`
-
-> 🥈 &nbsp; **2nd Place — RootRush 2026** &nbsp;·&nbsp; Jeopardy-style CTF
->
-> Organized by Xploit, Cybersecurity Club, IIIT Bhopal · NIIMACK 2026.
-> Solved forensics, security analysis & AI-based scenarios with team **Ctrl Alt Defend**.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rudrasamadhiya&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+</p>
 
 <br/>
 
----
+<p align="center">
+  <b>🥈 2nd Place · RootRush 2026 · Jeopardy-style CTF</b><br/>
+  <sub>Organized by Xploit, Cybersecurity Club · IIIT Bhopal · NIIMACK 2026<br/>
+  Solved forensics, security analysis & AI-based scenarios · Team: <b>Ctrl Alt Defend</b></sub>
+</p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <sub><code>// open to internships & backend collaborations · based in bhopal, india · i reply fast</code></sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Rudrasamadhiya&color=B600A8&style=flat-square&label=profile+views" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=8B92B0&center=true&vCenter=true&width=620&lines=open+to+backend+internships+%26+collaborations;based+in+bhopal%2C+india+%C2%B7+i+reply+fast;%E2%86%92+samadhiyarudra123%40gmail.com"/>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7621B0&height=80&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rudrasamadhiya&color=B600A8&style=flat-square&label=profile+views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7621B0,100:B600A8&height=100&section=footer" width="100%"/>
