@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:B06AB3,100:4568DC&height=200&section=header&text=Rudra%20Samadhiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%2F%20NestJS%20%E2%80%A2%20React%20Native&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+TypeScript;Building+Products+That+Ship+%F0%9F%9A%80;CSE+(Data+Science)+%40+IIIT+Bhopal+%E2%80%A2+2025-29;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+Products+That+Ship+%F0%9F%9A%80;CSE+(Data+Science)+%40+IIIT+Bhopal+%E2%80%A2+2025-29;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
 
 <br/>
 
