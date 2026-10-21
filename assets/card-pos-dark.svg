@@ -1,76 +1,75 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="380" viewBox="0 0 620 380" fill="none">
-<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="0.5" stop-color="#F472B6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><clipPath id="cc"><rect width="620" height="380" rx="22"/></clipPath><filter id="cblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter></defs>
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5B9DFF"/><stop offset="0.5" stop-color="#5B9DFF"/><stop offset="1" stop-color="#5B9DFF"/></linearGradient><clipPath id="cc"><rect width="620" height="380" rx="22"/></clipPath><filter id="cblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter></defs>
 <g clip-path="url(#cc)">
-<rect width="620" height="380" fill="#0F0F1A"/>
-<circle cx="580" cy="20" r="110" fill="#7C3AED" opacity="0.35" filter="url(#cblur)"/>
-<rect width="620" height="3" fill="url(#cg)"/>
+<rect width="620" height="380" fill="#0F1319"/>
+<circle cx="580" cy="20" r="110" fill="#1F4E96" opacity="0.22" filter="url(#cblur)"/>
 <rect x="28" y="30" width="48" height="48" rx="13" fill="url(#cg)"/>
 <text x="52" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle" >₹</text>
-<text x="92" y="63" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#EDEDF7" text-anchor="start" letter-spacing="-0.5">Multi-Mall POS</text>
-<rect x="480" y="38" width="112" height="30" rx="15" fill="#FBBF24" fill-opacity="0.12" stroke="#FBBF24" stroke-opacity="0.5"/>
-<text x="536.0" y="58" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" fill="#FBBF24" text-anchor="middle" letter-spacing="0.8">JAVA · OOP</text>
-<text x="28" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#9494B5" text-anchor="start" >Point-of-sale system for small retailers — barcode</text>
-<text x="28" y="139" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#9494B5" text-anchor="start" >scanning, inventory, a billing engine, automated stock</text>
-<text x="28" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#9494B5" text-anchor="start" >sync and sales reporting with transactional consistency.</text>
-<rect x="28" y="326" width="54" height="28" rx="8" fill="#151526" stroke="#26263D"/>
-<text x="55.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="middle" >Java</text>
-<rect x="90" y="326" width="46" height="28" rx="8" fill="#151526" stroke="#26263D"/>
-<text x="113.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="middle" >OOP</text>
-<rect x="144" y="326" width="100" height="28" rx="8" fill="#151526" stroke="#26263D"/>
-<text x="194.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="middle" >PostgreSQL</text>
-<rect x="252" y="326" width="77" height="28" rx="8" fill="#151526" stroke="#26263D"/>
-<text x="290.5" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="middle" >Barcode</text>
+<text x="92" y="63" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.5">Multi-Mall POS</text>
+<rect x="480" y="38" width="112" height="30" rx="15" fill="#E6EDF3" fill-opacity="0.12" stroke="#E6EDF3" stroke-opacity="0.5"/>
+<text x="536.0" y="58" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" fill="#E6EDF3" text-anchor="middle" letter-spacing="0.8">JAVA · OOP</text>
+<text x="28" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#8B949E" text-anchor="start" >Point-of-sale system for small retailers — barcode</text>
+<text x="28" y="139" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#8B949E" text-anchor="start" >scanning, inventory, a billing engine, automated stock</text>
+<text x="28" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#8B949E" text-anchor="start" >sync and sales reporting with transactional consistency.</text>
+<rect x="28" y="326" width="54" height="28" rx="8" fill="#151A22" stroke="#252B36"/>
+<text x="55.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="middle" >Java</text>
+<rect x="90" y="326" width="46" height="28" rx="8" fill="#151A22" stroke="#252B36"/>
+<text x="113.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="middle" >OOP</text>
+<rect x="144" y="326" width="100" height="28" rx="8" fill="#151A22" stroke="#252B36"/>
+<text x="194.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="middle" >PostgreSQL</text>
+<rect x="252" y="326" width="77" height="28" rx="8" fill="#151A22" stroke="#252B36"/>
+<text x="290.5" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="middle" >Barcode</text>
 </g>
-<rect x="0.5" y="0.5" width="619" height="379" rx="22" stroke="#26263D"/>
+<rect x="0.5" y="0.5" width="619" height="379" rx="22" stroke="#252B36"/>
 <g>
-<rect x="40" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="45" y="198" width="4" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="53" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="57" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="65" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="72" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="78" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="82" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="87" y="198" width="4" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="93" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="97" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="106" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="112" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="116" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="124" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="134" y="198" width="4" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="140" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="144" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="152" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="158" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="164" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="170" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="177" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="181" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="191" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="196" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="202" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="208" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="214" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="219" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="228" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="234" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="243" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="249" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="253" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="257" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="266" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="275" y="198" width="3" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="282" y="198" width="4" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="289" y="198" width="6" height="78" fill="#EDEDF7" opacity="0.85"/>
-<rect x="297" y="198" width="2" height="78" fill="#EDEDF7" opacity="0.85"/>
-<text x="170" y="296" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#9494B5" text-anchor="middle" >8 901234 567890</text>
+<rect x="40" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="45" y="198" width="4" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="53" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="57" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="65" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="72" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="78" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="82" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="87" y="198" width="4" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="93" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="97" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="106" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="112" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="116" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="124" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="134" y="198" width="4" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="140" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="144" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="152" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="158" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="164" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="170" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="177" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="181" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="191" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="196" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="202" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="208" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="214" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="219" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="228" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="234" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="243" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="249" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="253" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="257" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="266" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="275" y="198" width="3" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="282" y="198" width="4" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="289" y="198" width="6" height="78" fill="#E6EDF3" opacity="0.85"/>
+<rect x="297" y="198" width="2" height="78" fill="#E6EDF3" opacity="0.85"/>
+<text x="170" y="296" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#8B949E" text-anchor="middle" >8 901234 567890</text>
 <rect x="30" y="200" width="282" height="2.5" fill="#EF4444"><animate attributeName="y" values="198;274;198" dur="2.2s" repeatCount="indefinite"/></rect>
-<rect x="360" y="190" width="232" height="112" rx="12" fill="#151526" stroke="#26263D"/>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.4s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><text x="376" y="216" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="500" fill="#9494B5" text-anchor="start" >Basmati 5kg</text><text x="576" y="216" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="end" >₹ 640</text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.8s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><text x="376" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="500" fill="#9494B5" text-anchor="start" >Atta 10kg</text><text x="576" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="end" >₹ 455</text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2000000000000002s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.2000000000000002s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><text x="376" y="260" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="500" fill="#9494B5" text-anchor="start" >Toor dal 1kg</text><text x="576" y="260" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#EDEDF7" text-anchor="end" >₹ 168</text></g>
-<rect x="376" y="270" width="200" height="1" fill="#26263D" stroke-dasharray="3 3"/>
-<text x="376" y="290" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="800" fill="#EDEDF7" text-anchor="start" >TOTAL</text><text x="576" y="290" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="800" fill="#FBBF24" text-anchor="end" >₹ 1,263</text>
+<rect x="360" y="190" width="232" height="112" rx="12" fill="#151A22" stroke="#252B36"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.4s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><text x="376" y="216" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="500" fill="#8B949E" text-anchor="start" >Basmati 5kg</text><text x="576" y="216" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="end" >₹ 640</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.8s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><text x="376" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="500" fill="#8B949E" text-anchor="start" >Atta 10kg</text><text x="576" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="end" >₹ 455</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2000000000000002s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.2000000000000002s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><text x="376" y="260" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="500" fill="#8B949E" text-anchor="start" >Toor dal 1kg</text><text x="576" y="260" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E6EDF3" text-anchor="end" >₹ 168</text></g>
+<rect x="376" y="270" width="200" height="1" fill="#252B36" stroke-dasharray="3 3"/>
+<text x="376" y="290" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="800" fill="#E6EDF3" text-anchor="start" >TOTAL</text><text x="576" y="290" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="800" fill="#E6EDF3" text-anchor="end" >₹ 1,263</text>
 </g>
 </svg>

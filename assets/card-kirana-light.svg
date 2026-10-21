@@ -1,53 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="380" viewBox="0 0 620 380" fill="none">
-<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6D28D9"/><stop offset="0.5" stop-color="#BE185D"/><stop offset="1" stop-color="#0E7490"/></linearGradient><clipPath id="cc"><rect width="620" height="380" rx="22"/></clipPath><filter id="cblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter></defs>
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1F6FEB"/><stop offset="0.5" stop-color="#1F6FEB"/><stop offset="1" stop-color="#1F6FEB"/></linearGradient><clipPath id="cc"><rect width="620" height="380" rx="22"/></clipPath><filter id="cblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter></defs>
 <g clip-path="url(#cc)">
 <rect width="620" height="380" fill="#FFFFFF"/>
-<circle cx="580" cy="20" r="110" fill="#C4B5FD" opacity="0.45" filter="url(#cblur)"/>
-<rect width="620" height="3" fill="url(#cg)"/>
+<circle cx="580" cy="20" r="110" fill="#C9DCFB" opacity="0.5" filter="url(#cblur)"/>
 <rect x="28" y="30" width="48" height="48" rx="13" fill="url(#cg)"/>
 <text x="52" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle" >K</text>
-<text x="92" y="63" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#15131F" text-anchor="start" letter-spacing="-0.5">Instant Kirana</text>
-<rect x="472" y="38" width="120" height="30" rx="15" fill="#0E7490" fill-opacity="0.12" stroke="#0E7490" stroke-opacity="0.5"/>
-<text x="532.0" y="58" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" fill="#0E7490" text-anchor="middle" letter-spacing="0.8">DISTRIBUTED</text>
-<text x="28" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#5A5873" text-anchor="start" >Blinkit-style quick commerce for Tier-2/3 India — 3 apps</text>
-<text x="28" y="139" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#5A5873" text-anchor="start" >on 7 NestJS microservices, Socket.IO live tracking,</text>
-<text x="28" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#5A5873" text-anchor="start" >multi-layer caching and Razorpay payments.</text>
-<rect x="28" y="326" width="69" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="62.5" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >NestJS</text>
-<rect x="105" y="326" width="115" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="162.5" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >React Native</text>
-<rect x="228" y="326" width="62" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="259.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >Redis</text>
-<rect x="298" y="326" width="100" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="348.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >PostgreSQL</text>
+<text x="92" y="63" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#1F2328" text-anchor="start" letter-spacing="-0.5">Instant Kirana</text>
+<rect x="472" y="38" width="120" height="30" rx="15" fill="#1F6FEB" fill-opacity="0.12" stroke="#1F6FEB" stroke-opacity="0.5"/>
+<text x="532.0" y="58" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" fill="#1F6FEB" text-anchor="middle" letter-spacing="0.8">DISTRIBUTED</text>
+<text x="28" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#59636E" text-anchor="start" >Blinkit-style quick commerce for Tier-2/3 India — 3 apps</text>
+<text x="28" y="139" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#59636E" text-anchor="start" >on 7 NestJS microservices, Socket.IO live tracking,</text>
+<text x="28" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#59636E" text-anchor="start" >multi-layer caching and Razorpay payments.</text>
+<rect x="28" y="326" width="69" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="62.5" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >NestJS</text>
+<rect x="105" y="326" width="115" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="162.5" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >React Native</text>
+<rect x="228" y="326" width="62" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="259.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >Redis</text>
+<rect x="298" y="326" width="100" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="348.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >PostgreSQL</text>
 </g>
-<rect x="0.5" y="0.5" width="619" height="379" rx="22" stroke="#E2E0F0"/>
+<rect x="0.5" y="0.5" width="619" height="379" rx="22" stroke="#D8DEE4"/>
 <g>
-<rect x="28" y="192" width="112" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="84" y="211" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >customer</text>
-<path d="M140 206 C 180 206, 180 242, 214 242" stroke="#0E7490" stroke-width="1.6" stroke-dasharray="4 5" opacity="0.8"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
-<rect x="28" y="228" width="112" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="84" y="247" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >store</text>
-<path d="M140 242 C 180 242, 180 242, 214 242" stroke="#0E7490" stroke-width="1.6" stroke-dasharray="4 5" opacity="0.8"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
-<rect x="28" y="264" width="112" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
-<text x="84" y="283" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >rider</text>
-<path d="M140 278 C 180 278, 180 242, 214 242" stroke="#0E7490" stroke-width="1.6" stroke-dasharray="4 5" opacity="0.8"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
+<rect x="28" y="192" width="112" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="84" y="211" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >customer</text>
+<path d="M140 206 C 180 206, 180 242, 214 242" stroke="#1F6FEB" stroke-width="1.6" stroke-dasharray="4 5" opacity="0.8"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
+<rect x="28" y="228" width="112" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="84" y="247" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >store</text>
+<path d="M140 242 C 180 242, 180 242, 214 242" stroke="#1F6FEB" stroke-width="1.6" stroke-dasharray="4 5" opacity="0.8"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
+<rect x="28" y="264" width="112" height="28" rx="8" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="84" y="283" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#1F2328" text-anchor="middle" >rider</text>
+<path d="M140 278 C 180 278, 180 242, 214 242" stroke="#1F6FEB" stroke-width="1.6" stroke-dasharray="4 5" opacity="0.8"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
 <rect x="214" y="218" width="120" height="48" rx="12" fill="url(#cg)"/>
 <text x="274" y="247" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" >gateway</text>
-<path d="M334 242 H 372" stroke="#6D28D9" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
-<rect x="376" y="214" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect>
-<rect x="410" y="214" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></rect>
-<rect x="444" y="214" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
-<rect x="478" y="214" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></rect>
-<rect x="376" y="246" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
-<rect x="410" y="246" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></rect>
-<rect x="444" y="246" width="26" height="24" rx="6" fill="#F6F5FF" stroke="#6D28D9" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></rect>
-<text x="442" y="296" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#5A5873" text-anchor="middle" >7 services</text>
-<rect x="530" y="196" width="62" height="26" rx="13" fill="none" stroke="#E2E0F0"/>
-<text x="561" y="213.5" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#5A5873" text-anchor="middle" >redis</text>
-<rect x="530" y="230" width="62" height="26" rx="13" fill="none" stroke="#E2E0F0"/>
-<text x="561" y="247.5" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#5A5873" text-anchor="middle" >pg</text>
-<rect x="530" y="264" width="62" height="26" rx="13" fill="none" stroke="#E2E0F0"/>
-<text x="561" y="281.5" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#5A5873" text-anchor="middle" >mongo</text>
+<path d="M334 242 H 372" stroke="#1F6FEB" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></path>
+<rect x="376" y="214" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="410" y="214" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></rect>
+<rect x="444" y="214" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+<rect x="478" y="214" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></rect>
+<rect x="376" y="246" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+<rect x="410" y="246" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></rect>
+<rect x="444" y="246" width="26" height="24" rx="6" fill="#F6F8FA" stroke="#1F6FEB" stroke-opacity="0.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="442" y="296" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#59636E" text-anchor="middle" >7 services</text>
+<rect x="530" y="196" width="62" height="26" rx="13" fill="none" stroke="#D8DEE4"/>
+<text x="561" y="213.5" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#59636E" text-anchor="middle" >redis</text>
+<rect x="530" y="230" width="62" height="26" rx="13" fill="none" stroke="#D8DEE4"/>
+<text x="561" y="247.5" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#59636E" text-anchor="middle" >pg</text>
+<rect x="530" y="264" width="62" height="26" rx="13" fill="none" stroke="#D8DEE4"/>
+<text x="561" y="281.5" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#59636E" text-anchor="middle" >mongo</text>
 </g>
 </svg>
