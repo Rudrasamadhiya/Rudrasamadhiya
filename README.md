@@ -1,158 +1,181 @@
+<!-- Header (switches with GitHub light / dark theme) -->
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:2B2670,100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=E6EDF3&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:D9D6FF,100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=1F2328&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn"/>
+  <img alt="Rudra Samadhiya" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:D9D6FF,100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=1F2328&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:B06AB3,100:4568DC&height=200&section=header&text=Rudra%20Samadhiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%2F%20NestJS%20%E2%80%A2%20React%20Native&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<a href="https://git.io/typing-svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A5A0FF&center=true&vCenter=true&width=620&lines=Building+products+that+actually+ship;AI-agent+tooling+for+Expo+%2F+React+Native;Next.js+%C2%B7+NestJS+%C2%B7+React+Native+%C2%B7+TypeScript;Open+to+SWE+internships+%26+collaborations"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=Building+products+that+actually+ship;AI-agent+tooling+for+Expo+%2F+React+Native;Next.js+%C2%B7+NestJS+%C2%B7+React+Native+%C2%B7+TypeScript;Open+to+SWE+internships+%26+collaborations"/>
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=Building+products+that+actually+ship;AI-agent+tooling+for+Expo+%2F+React+Native;Next.js+%C2%B7+NestJS+%C2%B7+React+Native+%C2%B7+TypeScript;Open+to+SWE+internships+%26+collaborations"/>
+</picture>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+Products+That+Ship+%F0%9F%9A%80;CSE+(Data+Science)+%40+IIIT+Bhopal+%E2%80%A2+2025-29;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
+<br/><br/>
+
+<a href="https://profile-steel-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/rudra-samadhiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:Samadhiyarudra123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://prepsharp.in"><img src="https://img.shields.io/badge/PrepSharp.in-Live-22C55E?style=flat-square&logo=googlechrome&logoColor=white" alt="PrepSharp"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rudrasamadhiya&color=6C63FF&style=flat-square&label=Profile+views" alt="Profile views"/>
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://profile-steel-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-samadhiya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samadhiyarudra123@gmail.com)
-[![PrepSharp](https://img.shields.io/badge/PrepSharp.in-LIVE-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prepsharp.in)
+## About
 
-</div>
+I'm a **CSE (Data Science) undergrad at IIIT Bhopal** who likes shipping real, production-grade software — scalable backends, distributed systems and clean, maintainable code.
 
----
+```ts
+const rudra = {
+  role:        "Full-Stack Developer · Founder @ PrepSharp.in",
+  education:   "B.Tech CSE (Data Science) @ IIIT Bhopal · 2025–29",
+  building:    ["PrepSharp", "expo-mcp-bridge", "Instant Kirana"],
+  stack:       ["TypeScript", "React", "Next.js", "React Native", "NestJS", "PostgreSQL"],
+  strongIn:    ["DSA", "OOP", "OS", "DBMS", "Backend & System Design"],
+  openTo:      "SWE internships & collaborations",
+  location:    "Bhopal, India",
+};
+```
 
-## 👨‍💻 About Me
+| | Highlights |
+|:-:|:--|
+| **Founder** | [PrepSharp.in](https://prepsharp.in) — live CBT exam-prep platform (Web + Android) with a **133K+ question bank** and **241 JEE Main & Advanced papers** |
+| **Open source** | **GSSoC '26 Power Contributor** — 10+ merged PRs across community projects |
+| **CTF** | **2nd place, RootRush 2026** — led team *Ctrl Alt Defend* (Xploit Cybersecurity Club, IIIT Bhopal) |
+| **Hackathons** | FlowLink at **HackAxios** (Team DRONA) · **SIH 2026** submission |
 
-I'm a **Computer Science (Data Science) undergraduate at IIIT Bhopal** who likes shipping real, production-grade software — building scalable, distributed systems and writing clean, maintainable code.
+<br/>
 
-- 🚀 **Founder of [PrepSharp.in](https://prepsharp.in)** — a live CBT exam-prep platform (Web + Android app) with a **133K+ question bank** and **241 JEE Main & Advanced papers**
-- 🛒 **Built [Instant Kirana](https://github.com/Rudrasamadhiya/instant-kirana)** — a distributed, Blinkit-style quick-commerce platform (3 React Native apps + 7 NestJS microservices)
-- 🌱 **Open-source @ GSSoC '26** — merged **10+ PRs** across community projects (earned the rare *Power Contributor* badge)
-- 🏆 **2nd Place — RootRush 2026 CTF**, leading team *Ctrl Alt Defend* (Xploit Cybersecurity Club, IIIT Bhopal)
-- 🧠 **Strong in** DSA, OOP, OS, DBMS, and backend/distributed system design
-- 📬 **Reach me:** [Samadhiyarudra123@gmail.com](mailto:Samadhiyarudra123@gmail.com) &nbsp;|&nbsp; 📍 Bhopal, India &nbsp;|&nbsp; ⚡ I reply fast
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 [PrepSharp.in](https://prepsharp.in) &nbsp; ![Live](https://img.shields.io/badge/LIVE-brightgreen?style=flat-square) ![Play Store](https://img.shields.io/badge/Play%20Store-In%20Review-414141?style=flat-square&logo=google-play&logoColor=white)
-
-Full-stack **CBT exam-prep platform** for JEE & competitive exams — **live web app** (React + Next.js) and an **Android app** (React Native, in Google Play review). Serves a **133,000+ question bank** and **241 full-length JEE Main & Advanced papers**, with a scoring engine, answer review, an automated **PDF question-extraction pipeline**, KaTeX math rendering, and Chart.js analytics — all on a normalized **Firestore** backend.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 🛒 [Instant Kirana](https://github.com/Rudrasamadhiya/instant-kirana) &nbsp; ![Repo](https://img.shields.io/badge/Source-blue?style=flat-square&logo=github)
-
-A **distributed, Blinkit-style quick-commerce platform** for Tier-2/3 India — **3 React Native apps** (customer, kirana owner, delivery partner) + a web admin dashboard, backed by **7 NestJS microservices**. Real-time order/delivery tracking over **Socket.IO** (reconnect + REST-polling fallback), a multi-layer caching stack (Redis + edge + image CDN + predictive prefetch), weighted MongoDB search, and **Razorpay** payments.
-
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-
----
-
-### 🔗 FlowLink &nbsp; ![Hackathon](https://img.shields.io/badge/HackAxios-Devfolio-purple?style=flat-square)
-
-Hierarchical **knowledge & problem-solving platform** with enterprise-style access control — built at HackAxios with Team DRONA. **RBAC** multi-role system, normalized **Firestore** schema, and an end-to-end workflow: create → moderate → approve → vote, with duplicate detection and automatic escalation.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-039BE5?style=flat-square&logo=firebase) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
----
-
-### 🧾 POS System — [Source](https://github.com/Rudrasamadhiya/POSSystem)
-
-**Multi-Mall Point of Sale System** for small retailers — barcode scanning & inventory management, a billing engine, automated stock sync, transactional consistency via OOP, and an operational sales-reporting dashboard.
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-6C63FF?style=flat-square)
-
----
-
-## 📊 GitHub Statistics
+## Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+**Frontend & Mobile**<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark"/>
+  <img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=light"/>
+</picture>
+
+**Backend & Databases**<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,redis,firebase,java,cpp,py&theme=dark"/>
+  <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,redis,firebase,java,cpp,py&theme=light"/>
+</picture>
+
+**Tools & DevOps**<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman,androidstudio&theme=dark"/>
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman,androidstudio&theme=light"/>
+</picture>
 
 </div>
+
+<br/>
+
+## Featured Work
+
+### [PrepSharp.in](https://prepsharp.in) &nbsp;<img src="https://img.shields.io/badge/Live-22C55E?style=flat-square" alt="Live"/> <img src="https://img.shields.io/badge/Android-In%20Review-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+
+Full-stack **CBT exam-prep platform** for JEE — a live web app (React + Next.js) and an Android app (React Native). Serves **133,000+ questions** and **241 full-length JEE papers**, with a scoring engine, answer review, an automated **PDF question-extraction pipeline**, KaTeX math rendering and Chart.js analytics on a normalized Firestore backend.
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/KaTeX-3B82F6?style=flat-square"/>
+</p>
+
+### Open-source & side projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Rudrasamadhiya/expo-mcp-bridge">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=expo-mcp-bridge&bg_color=0D1117&title_color=A5A0FF&icon_color=A5A0FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
+  <img alt="expo-mcp-bridge" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=expo-mcp-bridge&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=57606A&border_color=D0D7DE&border_radius=10"/>
+</picture>
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Rudrasamadhiya/expo-launch-video">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=expo-launch-video&bg_color=0D1117&title_color=A5A0FF&icon_color=A5A0FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
+  <img alt="expo-launch-video" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=expo-launch-video&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=57606A&border_color=D0D7DE&border_radius=10"/>
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Rudrasamadhiya/expo-agent-kit">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=expo-agent-kit&bg_color=0D1117&title_color=A5A0FF&icon_color=A5A0FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
+  <img alt="expo-agent-kit" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=expo-agent-kit&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=57606A&border_color=D0D7DE&border_radius=10"/>
+</picture>
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Rudrasamadhiya/POSSystem">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=POSSystem&bg_color=0D1117&title_color=A5A0FF&icon_color=A5A0FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
+  <img alt="POSSystem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rudrasamadhiya&repo=POSSystem&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=57606A&border_color=D0D7DE&border_radius=10"/>
+</picture>
+</a>
+</td>
+</tr>
+</table>
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [**Instant Kirana**](https://github.com/Rudrasamadhiya/instant-kirana) | Blinkit-style quick-commerce for Tier-2/3 India — 3 React Native apps + admin dashboard on **7 NestJS microservices**, real-time tracking over Socket.IO, multi-layer Redis/CDN caching, Razorpay | React Native · NestJS · PostgreSQL · MongoDB · Redis |
+| **FlowLink** | Knowledge & problem-solving platform with **RBAC** and a create → moderate → approve → vote workflow, duplicate detection and auto-escalation (HackAxios) | React · Firebase · Java |
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=A5A0FF&icon_color=A5A0FF&text_color=C9D1D9&ring_color=A5A0FF&border_color=30363D&border_radius=10"/>
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=57606A&ring_color=4F46E5&border_color=D0D7DE&border_radius=10"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=0D1117&title_color=A5A0FF&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&title_color=4F46E5&text_color=57606A&border_color=D0D7DE&border_radius=10"/>
+</picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rudrasamadhiya&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=B06AB3&currStreakLabel=6C63FF)](https://git.io/streak-stats)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=0D1117&border=30363D&stroke=30363D&ring=A5A0FF&fire=A5A0FF&currStreakNum=E6EDF3&currStreakLabel=A5A0FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=10"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=4F46E5&fire=4F46E5&currStreakNum=1F2328&currStreakLabel=4F46E5&sideNums=1F2328&sideLabels=57606A&dates=57606A&border_radius=10"/>
+</picture>
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rudrasamadhiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Rudra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rudrasamadhiya&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=B06AB3&point=6C63FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
 
----
+<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rudrasamadhiya&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+**Open to Software Engineering internships & collaborations** — [say hi](mailto:Samadhiyarudra123@gmail.com)
 
-**Open to Software Engineering internships & collaborations · Bhopal, India · I reply fast ⚡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:B06AB3,100:4568DC&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:2B2670,100:0D1117&height=110&section=footer"/>
+  <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:D9D6FF,100:FFFFFF&height=110&section=footer"/>
+</picture>
 
 </div>
