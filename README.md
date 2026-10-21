@@ -1,8 +1,8 @@
 <!-- Header (switches with GitHub light / dark theme) -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:2B2670,100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=E6EDF3&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:D9D6FF,100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=1F2328&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117%2C55:2B2670%2C100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=E6EDF3&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF%2C55:D9D6FF%2C100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=1F2328&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn"/>
   <img alt="Rudra Samadhiya" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:D9D6FF,100:6C63FF&height=210&section=header&text=Rudra%20Samadhiya&fontSize=50&fontColor=1F2328&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20PrepSharp.in%20%C2%B7%20IIIT%20Bhopal&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 </picture>
 
@@ -57,19 +57,19 @@ const rudra = {
 
 **Frontend & Mobile**<br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&theme=dark"/>
   <img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=light"/>
 </picture>
 
 **Backend & Databases**<br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,redis,firebase,java,cpp,py&theme=dark"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cjava%2Ccpp%2Cpy&theme=dark"/>
   <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,redis,firebase,java,cpp,py&theme=light"/>
 </picture>
 
 **Tools & DevOps**<br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman,androidstudio&theme=dark"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio&theme=dark"/>
   <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman,androidstudio&theme=light"/>
 </picture>
 
@@ -174,7 +174,7 @@ Full-stack **CBT exam-prep platform** for JEE — a live web app (React + Next.j
 **Open to Software Engineering internships & collaborations** — [say hi](mailto:Samadhiyarudra123@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:2B2670,100:0D1117&height=110&section=footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF%2C45:2B2670%2C100:0D1117&height=110&section=footer"/>
   <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:D9D6FF,100:FFFFFF&height=110&section=footer"/>
 </picture>
 
