@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="380" viewBox="0 0 620 380" fill="none">
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6D28D9"/><stop offset="0.5" stop-color="#BE185D"/><stop offset="1" stop-color="#0E7490"/></linearGradient><clipPath id="cc"><rect width="620" height="380" rx="22"/></clipPath><filter id="cblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter></defs>
+<g clip-path="url(#cc)">
+<rect width="620" height="380" fill="#FFFFFF"/>
+<circle cx="580" cy="20" r="110" fill="#C4B5FD" opacity="0.45" filter="url(#cblur)"/>
+<rect width="620" height="3" fill="url(#cg)"/>
+<rect x="28" y="30" width="48" height="48" rx="13" fill="url(#cg)"/>
+<text x="52" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle" >F</text>
+<text x="92" y="63" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#15131F" text-anchor="start" letter-spacing="-0.5">FlowLink</text>
+<rect x="489" y="38" width="103" height="30" rx="15" fill="#BE185D" fill-opacity="0.12" stroke="#BE185D" stroke-opacity="0.5"/>
+<text x="540.5" y="58" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="700" fill="#BE185D" text-anchor="middle" letter-spacing="0.8">HACKATHON</text>
+<text x="28" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#5A5873" text-anchor="start" >Knowledge &amp; problem-solving platform with enterprise RBAC,</text>
+<text x="28" y="139" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#5A5873" text-anchor="start" >built at HackAxios with Team DRONA — duplicate detection</text>
+<text x="28" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="400" fill="#5A5873" text-anchor="start" >and automatic escalation baked into the workflow.</text>
+<rect x="28" y="326" width="62" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
+<text x="59.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >React</text>
+<rect x="98" y="326" width="84" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
+<text x="140.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >Firebase</text>
+<rect x="190" y="326" width="54" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
+<text x="217.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >RBAC</text>
+<rect x="252" y="326" width="54" height="28" rx="8" fill="#F6F5FF" stroke="#E2E0F0"/>
+<text x="279.0" y="345" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#15131F" text-anchor="middle" >Java</text>
+</g>
+<rect x="0.5" y="0.5" width="619" height="379" rx="22" stroke="#E2E0F0"/>
+<g>
+<path d="M88 246 H 526" stroke="#E2E0F0" stroke-width="2"/>
+<circle r="6" cy="246" fill="#BE185D"><animate attributeName="cx" values="88;526" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" repeatCount="indefinite"/></circle>
+<rect x="28" y="228" width="120" height="36" rx="10" fill="#F6F5FF" stroke="#BE185D"><animate attributeName="stroke" values="#E2E0F0;#BE185D;#E2E0F0" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="88" y="251" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#15131F" text-anchor="middle" >create</text>
+<rect x="174" y="228" width="120" height="36" rx="10" fill="#F6F5FF" stroke="#E2E0F0"><animate attributeName="stroke" values="#E2E0F0;#BE185D;#E2E0F0" dur="3s" begin="0.75s" repeatCount="indefinite"/></rect>
+<text x="234" y="251" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#15131F" text-anchor="middle" >moderate</text>
+<rect x="320" y="228" width="120" height="36" rx="10" fill="#F6F5FF" stroke="#E2E0F0"><animate attributeName="stroke" values="#E2E0F0;#BE185D;#E2E0F0" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="380" y="251" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#15131F" text-anchor="middle" >approve</text>
+<rect x="466" y="228" width="120" height="36" rx="10" fill="#F6F5FF" stroke="#E2E0F0"><animate attributeName="stroke" values="#E2E0F0;#BE185D;#E2E0F0" dur="3s" begin="2.25s" repeatCount="indefinite"/></rect>
+<text x="526" y="251" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#15131F" text-anchor="middle" >vote</text>
+<text x="28" y="298" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="500" fill="#5A5873" text-anchor="start" >multi-role RBAC · normalized Firestore schema</text>
+</g>
+</svg>
