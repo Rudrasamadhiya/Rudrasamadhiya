@@ -1,31 +1,31 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg"/>
-  <img alt="Rudra Samadhiya — full-stack engineer" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg?v=2"/>
+  <img alt="Rudra Samadhiya — full-stack engineer" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg?v=2" width="100%"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg"/>
-  <img alt="133K+ questions · 241 JEE papers · 7 microservices · 10+ merged PRs · #2 RootRush CTF" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=2"/>
+  <img alt="133K+ questions · 241 JEE papers · 7 microservices · 10+ merged PRs · #2 RootRush CTF" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=2" width="100%"/>
 </picture>
 
-<a href="https://profile-steel-nine.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://profile-steel-nine.vercel.app/"><img src="https://img.shields.io/badge/portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/rudra-samadhiya"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:Samadhiyarudra123@gmail.com"><img src="https://img.shields.io/badge/email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://prepsharp.in"><img src="https://img.shields.io/badge/prepsharp.in-live-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PrepSharp"/></a>
-<img src="https://komarev.com/ghpvc/?username=Rudrasamadhiya&color=7C3AED&style=for-the-badge&label=views" alt="Profile views"/>
+<a href="mailto:Samadhiyarudra123@gmail.com"><img src="https://img.shields.io/badge/email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://prepsharp.in"><img src="https://img.shields.io/badge/prepsharp.in-live-1A7F37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PrepSharp"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rudrasamadhiya&color=1F6FEB&style=for-the-badge&label=views" alt="Profile views"/>
 
 </div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg"/>
-  <img alt="01 / whoami" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg?v=2"/>
+  <img alt="01 / whoami" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg?v=2" width="100%"/>
 </picture>
 
 I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather ship than talk about shipping. I like building the whole thing: the product, the backend that keeps it standing, and the boring pipelines nobody sees.
@@ -38,42 +38,42 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg"/>
-  <img alt="02 / featured builds" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg?v=2"/>
+  <img alt="02 / featured builds" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg?v=2" width="100%"/>
 </picture>
 
 <p align="center">
 <a href="https://prepsharp.in"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-prepsharp-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-prepsharp-light.svg"/>
-  <img alt="PrepSharp.in" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-prepsharp-light.svg" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-prepsharp-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-prepsharp-light.svg?v=2"/>
+  <img alt="PrepSharp.in" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-prepsharp-light.svg?v=2" width="49%"/>
 </picture></a>
 <a href="https://github.com/Rudrasamadhiya/instant-kirana"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-kirana-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-kirana-light.svg"/>
-  <img alt="Instant Kirana" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-kirana-light.svg" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-kirana-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-kirana-light.svg?v=2"/>
+  <img alt="Instant Kirana" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-kirana-light.svg?v=2" width="49%"/>
 </picture></a>
 </p>
 <p align="center">
 <a href="https://github.com/Rudrasamadhiya"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-flowlink-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-flowlink-light.svg"/>
-  <img alt="FlowLink" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-flowlink-light.svg" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-flowlink-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-flowlink-light.svg?v=2"/>
+  <img alt="FlowLink" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-flowlink-light.svg?v=2" width="49%"/>
 </picture></a>
 <a href="https://github.com/Rudrasamadhiya/POSSystem"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-pos-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-pos-light.svg"/>
-  <img alt="Multi-Mall POS" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-pos-light.svg" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-pos-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-pos-light.svg?v=2"/>
+  <img alt="Multi-Mall POS" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/card-pos-light.svg?v=2" width="49%"/>
 </picture></a>
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg"/>
-  <img alt="03 / open source" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg?v=2"/>
+  <img alt="03 / open source" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg?v=2" width="100%"/>
 </picture>
 
 **GSSoC '26 Power Contributor** — 10+ merged PRs across community projects. A few I'm proud of:
@@ -90,9 +90,9 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg"/>
-  <img alt="04 / toolbox" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg?v=2"/>
+  <img alt="04 / toolbox" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg?v=2" width="100%"/>
 </picture>
 
 <p align="center">
@@ -106,28 +106,28 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg"/>
-  <img alt="05 / activity" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg?v=2"/>
+  <img alt="05 / activity" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg?v=2" width="100%"/>
 </picture>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=0F0F1A&border_color=26263D&title_color=A78BFA&icon_color=22D3EE&text_color=B4B4CF&ring_color=A78BFA&border_radius=16"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&border_color=E2E0F0&title_color=6D28D9&icon_color=0E7490&text_color=5A5873&ring_color=6D28D9&border_radius=16"/>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&border_color=E2E0F0&title_color=6D28D9&icon_color=0E7490&text_color=5A5873&ring_color=6D28D9&border_radius=16" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=0F1319&border_color=252B36&title_color=5B9DFF&icon_color=5B9DFF&text_color=8B949E&ring_color=5B9DFF&border_radius=16"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&icon_color=1F6FEB&text_color=59636E&ring_color=1F6FEB&border_radius=16"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&icon_color=1F6FEB&text_color=59636E&ring_color=1F6FEB&border_radius=16" height="165"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=0F0F1A&border_color=26263D&title_color=A78BFA&text_color=B4B4CF&border_radius=16"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=E2E0F0&title_color=6D28D9&text_color=5A5873&border_radius=16"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=E2E0F0&title_color=6D28D9&text_color=5A5873&border_radius=16" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=0F1319&border_color=252B36&title_color=5B9DFF&text_color=8B949E&border_radius=16"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&text_color=59636E&border_radius=16"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&text_color=59636E&border_radius=16" height="165"/>
 </picture>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=0F0F1A&border=26263D&stroke=26263D&ring=A78BFA&fire=22D3EE&currStreakNum=EDEDF7&currStreakLabel=A78BFA&sideNums=EDEDF7&sideLabels=9494B5&dates=9494B5&border_radius=16"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=FFFFFF&border=E2E0F0&stroke=E2E0F0&ring=6D28D9&fire=0E7490&currStreakNum=15131F&currStreakLabel=6D28D9&sideNums=15131F&sideLabels=5A5873&dates=5A5873&border_radius=16"/>
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=FFFFFF&border=E2E0F0&stroke=E2E0F0&ring=6D28D9&fire=0E7490&currStreakNum=15131F&currStreakLabel=6D28D9&sideNums=15131F&sideLabels=5A5873&dates=5A5873&border_radius=16"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=0F1319&border=252B36&stroke=252B36&ring=5B9DFF&fire=5B9DFF&currStreakNum=E6EDF3&currStreakLabel=5B9DFF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=16"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=FFFFFF&border=D8DEE4&stroke=D8DEE4&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F2328&currStreakLabel=1F6FEB&sideNums=1F2328&sideLabels=59636E&dates=59636E&border_radius=16"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Rudrasamadhiya&background=FFFFFF&border=D8DEE4&stroke=D8DEE4&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F2328&currStreakLabel=1F6FEB&sideNums=1F2328&sideLabels=59636E&dates=59636E&border_radius=16"/>
 </picture>
 </p>
 <p align="center">
@@ -140,7 +140,7 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/footer-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/footer-light.svg"/>
-  <img alt="Thanks for scrolling" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/footer-light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/footer-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/footer-light.svg?v=2"/>
+  <img alt="Thanks for scrolling" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/footer-light.svg?v=2" width="100%"/>
 </picture>
