@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg?v=2"/>
-  <img alt="Rudra Samadhiya — full-stack engineer" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg?v=3"/>
+  <img alt="Rudra Samadhiya — full-stack engineer" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/hero-light.svg?v=3" width="100%"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=2"/>
-  <img alt="133K+ questions · 241 JEE papers · 7 microservices · 10+ merged PRs · #2 RootRush CTF" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=3"/>
+  <img alt="Founder of PrepSharp.in · 10+ merged PRs (GSSoC '26) · #2 RootRush CTF · Hackathons · Full-stack" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=3" width="100%"/>
 </picture>
 
 <a href="https://profile-steel-nine.vercel.app/"><img src="https://img.shields.io/badge/portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
