@@ -117,9 +117,9 @@ AI coding agents can write your app, but they can't *see* it. So I built the bri
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpo%2Cthreejs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ckotlin%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=12&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpo%2Cthreejs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ckotlin%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=12&theme=light"/>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,expo,threejs,postgres,mongodb,redis,firebase,docker,java,kotlin,cpp,py,git,github,vercel,linux,vscode,postman,androidstudio,html,css&perline=12&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpo%2Cthreejs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ckotlin%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=14&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpo%2Cthreejs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ckotlin%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=14&theme=light"/>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,expo,threejs,postgres,mongodb,redis,firebase,docker,java,kotlin,cpp,py,git,github,vercel,linux,vscode,postman,androidstudio,html,css&perline=14&theme=light"/>
 </picture>
 </p>
 
