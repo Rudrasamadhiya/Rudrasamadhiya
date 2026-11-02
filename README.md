@@ -12,7 +12,7 @@
   <img alt="Founder of PrepSharp.in · 10+ merged PRs (GSSoC '26) · #2 RootRush CTF · Hackathons · Full-stack" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/stats-light.svg?v=3" width="100%"/>
 </picture>
 
-<a href="https://profile-steel-nine.vercel.app/"><img src="https://img.shields.io/badge/portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://rudrasamadhiya.github.io/profile/"><img src="https://img.shields.io/badge/3D_portfolio-24292F?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Portfolio"/></a>
 <a href="https://linkedin.com/in/rudra-samadhiya"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Samadhiyarudra123@gmail.com"><img src="https://img.shields.io/badge/email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://prepsharp.in"><img src="https://img.shields.io/badge/prepsharp.in-live-1A7F37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PrepSharp"/></a>
@@ -23,14 +23,16 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg?v=2"/>
-  <img alt="01 / whoami" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg?v=3"/>
+  <img alt="01 / whoami" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h01-light.svg?v=3" width="100%"/>
 </picture>
 
 I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather ship than talk about shipping. I like building the whole thing: the product, the backend that keeps it standing, and the boring pipelines nobody sees.
 
 - **Now** — growing [PrepSharp.in](https://prepsharp.in): study-planning engine, PYQ pipeline and the Android app
+- **Building** — open-source bridges that let AI agents (Claude Code, Cursor, Antigravity) see and drive real phones
+- **Portfolio** — [rudrasamadhiya.github.io/profile](https://rudrasamadhiya.github.io/profile/), a 3D site you scroll *through*
 - **Strong in** — DSA, OOP, OS, DBMS, backend & distributed-system design
 - **Off-keyboard** — CTFs with team *Ctrl Alt Defend*, hackathons, and occasionally sleeping
 - **Open to** — SWE internships & interesting collaborations · [say hi](mailto:Samadhiyarudra123@gmail.com)
@@ -38,9 +40,27 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg?v=2"/>
-  <img alt="02 / featured builds" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg?v=3"/>
+  <img alt="02 / agent toolkit" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h02-light.svg?v=3" width="100%"/>
+</picture>
+
+AI coding agents can write your app, but they can't *see* it. So I built the bridges — three open-source packages that give agents eyes and hands on a **real phone**.
+
+| Package | What it does | |
+|:--|:--|:--|
+| [**android-agent-bridge**](https://github.com/Rudrasamadhiya/android-agent-bridge) · Kotlin + TS | Hand your agent a whole Android phone: screenshots with numbered elements, on-device OCR, taps, typing, device controls and AirDrop-style file transfer. 27 MCP tools, one `npx`, one QR scan. · [docs](https://rudrasamadhiya.github.io/android-agent-bridge/) | <a href="https://www.npmjs.com/package/android-agent-bridge"><img src="https://img.shields.io/npm/v/android-agent-bridge?style=flat-square&color=1F6FEB&label=npm" alt="npm version"/></a> <img src="https://img.shields.io/npm/dm/android-agent-bridge?style=flat-square&color=1F6FEB&label=downloads" alt="monthly downloads"/> |
+| [**expo-mcp-bridge**](https://github.com/Rudrasamadhiya/expo-mcp-bridge) · MCP server | Eyes and hands inside your Expo app on iPhone or Android: snapshot, tap, type, scroll through real handlers, then read the console errors and failed requests each action caused. | <a href="https://www.npmjs.com/package/expo-mcp-bridge"><img src="https://img.shields.io/npm/v/expo-mcp-bridge?style=flat-square&color=1F6FEB&label=npm" alt="npm version"/></a> <img src="https://img.shields.io/npm/dm/expo-mcp-bridge?style=flat-square&color=1F6FEB&label=downloads" alt="monthly downloads"/> |
+| [**expo-launch-video**](https://github.com/Rudrasamadhiya/expo-launch-video) · agent-directed video | Ask for a launch video: the agent films your live app, picks the best takes, writes captions and cuts it with motion graphics. Export a 1080p MP4 from a promptable studio. | <a href="https://www.npmjs.com/package/expo-launch-video"><img src="https://img.shields.io/npm/v/expo-launch-video?style=flat-square&color=1F6FEB&label=npm" alt="npm version"/></a> <img src="https://img.shields.io/npm/dm/expo-launch-video?style=flat-square&color=1F6FEB&label=downloads" alt="monthly downloads"/> |
+
+<sub>→ [expo agent kit docs](https://rudrasamadhiya.github.io/expo-agent-kit/)</sub>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg?v=3"/>
+  <img alt="03 / featured builds" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg?v=3" width="100%"/>
 </picture>
 
 <p align="center">
@@ -71,9 +91,9 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg?v=2"/>
-  <img alt="03 / open source" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h03-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg?v=3"/>
+  <img alt="04 / open source" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg?v=3" width="100%"/>
 </picture>
 
 **GSSoC '26 Power Contributor** — 10+ merged PRs across community projects. A few I'm proud of:
@@ -90,37 +110,37 @@ I'm Rudra — a **CSE (Data Science) undergrad at IIIT Bhopal** who would rather
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg?v=2"/>
-  <img alt="04 / toolbox" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h04-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg?v=3"/>
+  <img alt="05 / toolbox" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg?v=3" width="100%"/>
 </picture>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=12&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=12&theme=light"/>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,mongodb,redis,firebase,docker,java,cpp,py,git,github,vercel,linux,vscode,postman,androidstudio,html,css&perline=12&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpo%2Cthreejs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ckotlin%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=12&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpo%2Cthreejs%2Cpostgres%2Cmongodb%2Credis%2Cfirebase%2Cdocker%2Cjava%2Ckotlin%2Ccpp%2Cpy%2Cgit%2Cgithub%2Cvercel%2Clinux%2Cvscode%2Cpostman%2Candroidstudio%2Chtml%2Ccss&perline=12&theme=light"/>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,expo,threejs,postgres,mongodb,redis,firebase,docker,java,kotlin,cpp,py,git,github,vercel,linux,vscode,postman,androidstudio,html,css&perline=12&theme=light"/>
 </picture>
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg?v=2"/>
-  <img alt="05 / activity" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h05-light.svg?v=2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h06-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h06-light.svg?v=3"/>
+  <img alt="06 / activity" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/main/assets/h06-light.svg?v=3" width="100%"/>
 </picture>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=0F1319&border_color=252B36&title_color=5B9DFF&icon_color=5B9DFF&text_color=8B949E&ring_color=5B9DFF&border_radius=16"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&icon_color=1F6FEB&text_color=59636E&ring_color=1F6FEB&border_radius=16"/>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rudrasamadhiya&show_icons=true&count_private=true&rank_icon=github&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&icon_color=1F6FEB&text_color=59636E&ring_color=1F6FEB&border_radius=16" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/stats-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/stats-light.svg"/>
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/stats-light.svg" width="49%"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=0F1319&border_color=252B36&title_color=5B9DFF&text_color=8B949E&border_radius=16"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&text_color=59636E&border_radius=16"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrasamadhiya&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=D8DEE4&title_color=1F6FEB&text_color=59636E&border_radius=16" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/langs-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/langs-light.svg"/>
+  <img alt="Most used languages" src="https://raw.githubusercontent.com/Rudrasamadhiya/Rudrasamadhiya/output/langs-light.svg" width="49%"/>
 </picture>
 </p>
 <p align="center">
