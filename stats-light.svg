@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" fill="none">
+<style>.r{animation:in .6s ease backwards}@keyframes in{from{opacity:0}}</style>
+<rect x="0.5" y="0.5" width="439" height="199" rx="16" fill="#FFFFFF" stroke="#D8DEE4"/>
+<text x="24" y="38" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#1F6FEB" letter-spacing="1">GITHUB · STATS</text>
+<g class="r" style="animation-delay:0s">
+<text x="24" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#59636E">Commits · last 12 months</text>
+<text x="416" y="72" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1F2328" text-anchor="end">167</text>
+</g>
+<g class="r" style="animation-delay:0.12s">
+<text x="24" y="97" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#59636E">Merged pull requests</text>
+<text x="416" y="97" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1F2328" text-anchor="end">42</text>
+</g>
+<g class="r" style="animation-delay:0.24s">
+<text x="24" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#59636E">Public repositories</text>
+<text x="416" y="122" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1F2328" text-anchor="end">12</text>
+</g>
+<g class="r" style="animation-delay:0.36s">
+<text x="24" y="147" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#59636E">Stars earned</text>
+<text x="416" y="147" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1F2328" text-anchor="end">12</text>
+</g>
+<g class="r" style="animation-delay:0.48s">
+<text x="24" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#59636E">Followers</text>
+<text x="416" y="172" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1F2328" text-anchor="end">10</text>
+</g>
+</svg>
