@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" fill="none">
+<style>.r{animation:in .6s ease backwards}@keyframes in{from{opacity:0}}</style>
+<rect x="0.5" y="0.5" width="439" height="199" rx="16" fill="#0F1319" stroke="#252B36"/>
+<text x="24" y="38" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#5B9DFF" letter-spacing="1">MOST USED LANGUAGES</text>
+<clipPath id="bar"><rect x="24" y="54" width="392" height="8" rx="4"/></clipPath>
+<rect x="24" y="54" width="392" height="8" rx="4" fill="#1B212B"/>
+<g clip-path="url(#bar)"><rect x="24.0" y="54" width="158.4" height="8" fill="#f1e05a"/><rect x="182.4" y="54" width="133.4" height="8" fill="#3178c6"/><rect x="315.8" y="54" width="40.5" height="8" fill="#b07219"/><rect x="356.3" y="54" width="27.4" height="8" fill="#3572A5"/><rect x="383.7" y="54" width="26.8" height="8" fill="#A97BFF"/><rect x="410.6" y="54" width="5.4" height="8" fill="#336790"/></g>
+<g class="r" style="animation-delay:0s">
+<circle cx="29" cy="90" r="5" fill="#f1e05a"/>
+<text x="42" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">JavaScript</text>
+<text x="204" y="94" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="end">40.4%</text>
+</g>
+<g class="r" style="animation-delay:0.08s">
+<circle cx="225" cy="90" r="5" fill="#3178c6"/>
+<text x="238" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">TypeScript</text>
+<text x="400" y="94" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="end">34.0%</text>
+</g>
+<g class="r" style="animation-delay:0.16s">
+<circle cx="29" cy="116" r="5" fill="#b07219"/>
+<text x="42" y="120" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">Java</text>
+<text x="204" y="120" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="end">10.3%</text>
+</g>
+<g class="r" style="animation-delay:0.24s">
+<circle cx="225" cy="116" r="5" fill="#3572A5"/>
+<text x="238" y="120" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">Python</text>
+<text x="400" y="120" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="end">7.0%</text>
+</g>
+<g class="r" style="animation-delay:0.32s">
+<circle cx="29" cy="142" r="5" fill="#A97BFF"/>
+<text x="42" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">Kotlin</text>
+<text x="204" y="146" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="end">6.8%</text>
+</g>
+<g class="r" style="animation-delay:0.4s">
+<circle cx="225" cy="142" r="5" fill="#336790"/>
+<text x="238" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">PLpgSQL</text>
+<text x="400" y="146" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="end">1.4%</text>
+</g>
+</svg>
